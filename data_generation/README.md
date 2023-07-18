@@ -10,7 +10,7 @@ This folder contains all functionality to generate trajectory labels from a simu
 5. `catkin build`
 
 
-## Launch Commands
+## Launch Command
 
 To launch the simulation:
 ```
